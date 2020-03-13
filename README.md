@@ -1,6 +1,10 @@
 # ASP.NET-Shop
 Sklep napisany w ASP.NET z funkcjonalnościami: rejestracja, mailing, logowanie, panel admina oraz bazą danych MySQL
 
+## Screen
+
+![GitHub Logo](./renee.jpg)
+
 ## Funkconalności:
 - sprawdzanie czy nick wolny
 - dodawanie zdjęć do bazy danego usera
