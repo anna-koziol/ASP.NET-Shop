@@ -1,0 +1,93 @@
+﻿body {
+    background-color: white;
+    font-family: 'Didact Gothic', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#banner {
+    background-color: #69656E;
+    width: 100vw;
+    height: 10vh;
+    position: fixed;
+    top: 0;
+    right: 0;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.75);
+}
+
+h1 {
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 45px;
+    text-align: center;
+}
+
+h2 {
+    border: 0px solid black;
+    text-align: center;
+    position: relative;
+    top: -11vh;
+    width: 20vw;
+    padding: 2%;
+    background-color: white;
+}
+
+#form1 {
+    margin-top: 25vh;
+    border: 3px solid black;
+    padding: 2%;
+    width: 40vw;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons {
+    background-color: black;
+    color: white;
+    font-family: 'Didact Gothic', sans-serif;
+    padding: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border: 2px solid black;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+
+.divsForm {
+   padding: 2%;
+}
+
+#TB1, #TB2, #TB3 {
+    width: 10vw;
+    border-radius: 2px;
+}
+
+#firstRow {
+    margin-top: -10vh;
+}
+
+#FU1 {
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+#TB1:focus, #TB1:hover, #TB2:focus, #TB2:hover, #TB3:focus, #TB3:hover {
+    outline: none !important;
+    border: 2px solid #C2888A;
+    border-radius: 2px;
+    box-shadow: 0 0 10px #9E7980;
+}
+
+.buttons:hover {
+    transition: 1s;
+    background-color: #9E7980;
+    border: 2px solid #9E7980;
+}

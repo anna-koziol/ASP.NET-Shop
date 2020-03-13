@@ -1,0 +1,136 @@
+﻿body {
+    background-color: white;
+    font-family: 'Didact Gothic', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#banner {
+    background-color: #69656E;
+    width: 100vw;
+    height: 10vh;
+    position: fixed;
+    top: 0;
+    right: 0;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.75);
+}
+
+h1 {
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 45px;
+    text-align: center;
+}
+
+h2 {
+    border: 0px solid black;
+    text-align: center;
+    position: relative;
+    top: -11vh;
+    width: 20vw;
+    padding: 2%;
+    background-color: white;
+}
+
+#form1, #form1Add, #form2 {
+    margin-top: 25vh;
+    border: 3px solid black;
+    padding: 2%;
+    width: 40vw;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons {
+    background-color: black;
+    color: white;
+    font-family: 'Didact Gothic', sans-serif;
+    padding: 2% 5%;
+    border: 2px solid black;
+    border-radius: 3px;
+    text-transform: uppercase;
+    }
+
+#firstRow {
+    margin-top: -10vh;
+}
+
+#FU1, select, option, #SelectType {
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+.buttons:hover {
+    transition: 1s;
+    background-color: #9E7980;
+    border: 2px solid #9E7980;
+}
+
+#form1Add {
+    margin-top: 15vh;
+}
+
+#backAdmin, #LogOut {
+    width: 10vw;
+    font-size: 10px;
+}
+
+#form2 > #LogOut, #form2 > #Back {
+    width: auto;
+    font-size: 100%;
+    margin: 2%;
+}
+
+#btAdd, #btEdit, #btRemove, #btLogin, #btRegister, #btBack, #btOrders {
+    margin: 2%;
+}
+
+#btAdd, #btLogin {
+    margin-top: -10vh;
+}
+
+.divsForm {
+    margin: 1%;
+}
+
+.inputs:focus, .inputs:hover {
+    outline: none !important;
+    border: 2px solid #C2888A;
+    border-radius: 2px;
+    box-shadow: 0 0 10px #9E7980;
+}
+
+#btLogin, #btRegister, #btBack {
+    width: 15vw;
+}
+
+.userImg {
+    width: 15vw;
+    height: auto;
+    border-radius: 100%;
+}
+
+#PanelImg {
+    width: 15vw;
+    height: 15vw;
+    margin-top: -10vh;
+    border: 0px solid black;
+    border-radius: 100%;
+}
+
+#lName {
+    margin: 3%;
+    font-size: 120%;
+}
+
+#btAdd, #btEdit, #btRemove, #btOrders {
+    width:  20vw;
+}

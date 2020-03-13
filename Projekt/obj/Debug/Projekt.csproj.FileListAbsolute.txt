@@ -1,0 +1,245 @@
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\csc.exe
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\csc.exe.config
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\csc.rsp
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\csi.exe
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\csi.exe.config
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\csi.rsp
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.AppContext.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Console.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\vbc.exe
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\vbc.exe.config
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\vbc.rsp
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\Projekt.dll.config
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\Projekt.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\Projekt.pdb
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\MySql.Data.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\MySql.Web.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\Google.Protobuf.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\MySql.Data.xml
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\bin\MySql.Web.xml
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\obj\Debug\Projekt.dll
+C:\Users\Kozioł Anna\Desktop\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\csc.exe
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\csc.exe.config
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\csc.rsp
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\csi.exe
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\csi.exe.config
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\csi.rsp
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.AppContext.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Console.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.IO.Compression.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Security.Claims.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Threading.Thread.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.ValueTuple.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\vbc.exe
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\vbc.exe.config
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\vbc.rsp
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\VBCSCompiler.exe
+C:\Users\aniak\Desktop\c#\Projekt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aniak\Desktop\c#\Projekt\bin\Projekt.dll.config
+C:\Users\aniak\Desktop\c#\Projekt\bin\Projekt.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\Projekt.pdb
+C:\Users\aniak\Desktop\c#\Projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\Google.Protobuf.dll
+C:\Users\aniak\Desktop\c#\Projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aniak\Desktop\c#\Projekt\bin\MySql.Data.xml
+C:\Users\aniak\Desktop\c#\Projekt\bin\MySql.Web.xml
+C:\Users\aniak\Desktop\c#\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\aniak\Desktop\c#\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\aniak\Desktop\c#\Projekt\obj\Debug\Projekt.csproj.CopyComplete
+C:\Users\aniak\Desktop\c#\Projekt\obj\Debug\Projekt.dll
+C:\Users\aniak\Desktop\c#\Projekt\obj\Debug\Projekt.pdb
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\csc.exe
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\csc.exe.config
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\csc.rsp
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\csi.exe
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\csi.exe.config
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\csi.rsp
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.AppContext.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Console.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.IO.Compression.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Security.Claims.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Threading.Thread.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.ValueTuple.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\vbc.exe
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\vbc.exe.config
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\vbc.rsp
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\VBCSCompiler.exe
+C:\Users\aniak\Desktop\projket\Projekt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aniak\Desktop\projket\Projekt\bin\Projekt.dll.config
+C:\Users\aniak\Desktop\projket\Projekt\bin\Projekt.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\Projekt.pdb
+C:\Users\aniak\Desktop\projket\Projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\Google.Protobuf.dll
+C:\Users\aniak\Desktop\projket\Projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aniak\Desktop\projket\Projekt\bin\MySql.Data.xml
+C:\Users\aniak\Desktop\projket\Projekt\bin\MySql.Web.xml
+C:\Users\aniak\Desktop\projket\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\aniak\Desktop\projket\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\aniak\Desktop\projket\Projekt\obj\Debug\Projekt.csproj.CopyComplete
+C:\Users\aniak\Desktop\projket\Projekt\obj\Debug\Projekt.dll
+C:\Users\aniak\Desktop\projket\Projekt\obj\Debug\Projekt.pdb
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\csc.exe
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\csc.exe.config
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\csc.rsp
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\csi.exe
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\csi.exe.config
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\csi.rsp
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.AppContext.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Console.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.IO.Compression.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Security.Claims.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Threading.Thread.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.ValueTuple.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\vbc.exe
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\vbc.exe.config
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\vbc.rsp
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\VBCSCompiler.exe
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\Projekt.dll.config
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\Projekt.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\Projekt.pdb
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\Google.Protobuf.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\MySql.Data.xml
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\bin\MySql.Web.xml
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\obj\Debug\Projekt.csproj.CopyComplete
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\obj\Debug\Projekt.dll
+C:\Users\aniak\Desktop\Aplikacje serwerowe 4\projketAKoziol4ia2\projket\Projekt\obj\Debug\Projekt.pdb

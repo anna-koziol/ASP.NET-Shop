@@ -1,0 +1,118 @@
+﻿body {
+    background-color: white;
+    font-family: 'Didact Gothic', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+h2 {
+    border: 0px solid black;
+    text-align: center;
+    position: relative;
+    top: -11vh;
+    width: 20vw;
+    padding: 2%;
+    background-color: white;
+}
+
+#form1, #form1Order {
+    margin-top: 5vh;
+    border: 3px solid black;
+    padding: 2%;
+    width: 40vw;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons {
+    background-color: black;
+    color: white;
+    font-family: 'Didact Gothic', sans-serif;
+    padding: 2% 5%;
+    border: 2px solid black;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+
+.buttons:hover {
+    transition: 1s;
+    background-color: #9E7980;
+    border: 2px solid #9E7980;
+}
+
+#backAdmin, #LogOut {
+    width: 10vw;
+    font-size: 10px;
+}
+
+.divsForm {
+    margin: 1%;
+}
+
+.productContainer {
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    align-items: center;
+    width: 40vw;
+    justify-content:  space-between;
+}
+
+#TextLb {
+    margin-top: -10vh;
+    margin-bottom: 5vh;
+}
+
+p {
+    padding: 1%;
+    width: 20%;
+}
+
+.inputs:focus, .inputs:hover {
+    outline: none !important;
+    border: 2px solid #C2888A;
+    border-radius: 2px;
+    box-shadow: 0 0 10px #9E7980;
+}
+
+#form1Order {
+    width: 90vw;
+}
+
+#Panel1 {
+    width: 100%;
+}
+
+    #Panel1 > .divsForm > #backAdmin, #Panel1 > .divsForm > #LogOut {
+        width: auto;
+        padding: 1% 2%;
+    }
+
+#Panel1 > .productContainer {
+    width: 100%;
+}
+
+    #Panel1 > .productContainer > .buttons {
+        margin: 5px;
+        padding: 1% 2%;
+    }
+
+hr {
+    color: #D59D90;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(213,175,155,0.1), rgba(213,157,144,0.75), rgba(213,175,155,0.1));
+    width: 100%;
+}
+
+#Button1 {
+    margin-top: 5vh;
+}
